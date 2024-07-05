@@ -9,6 +9,9 @@ Thank you to [PCBWay](https://www.pcbway.com/) for sponsorship the PCB productio
 | IO12  | D1  |
 | IO13  | D2  |
 
+### SOLDERED
+![soldered](real.jpg)
+
 ### PCB BY PCBWAY
 ![pcbway](pcbway.jpg)
 
