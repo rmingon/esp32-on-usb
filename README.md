@@ -9,6 +9,9 @@ Thank you to [PCBWay](https://www.pcbway.com/) for sponsorship the PCB productio
 | IO12  | D1  |
 | IO13  | D2  |
 
+### PCB BY PCBWAY
+![pcbway](pcbway.jpg)
+
 ### 3D VIEW
 ![3d](3d.png)
 
