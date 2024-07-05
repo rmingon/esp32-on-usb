@@ -82,9 +82,9 @@
       (subtractmaskfromsilk false)
       (outputformat 1)
       (mirror false)
-      (drillshape 1)
+      (drillshape 0)
       (scaleselection 1)
-      (outputdirectory "")
+      (outputdirectory "cam/")
     )
   )
 
@@ -1054,10 +1054,10 @@
       (net 9 "unconnected-(J1-Shield-Pad5)") (pinfunction "Shield") (pintype "passive") (tstamp 9d9e7ac3-2358-4736-a3aa-62e7e58f3690))
     (pad "5" thru_hole oval (at -6.9 5.7 180) (size 3.5 1.9) (drill oval 2.5 0.9) (layers "*.Cu" "*.Mask")
       (net 9 "unconnected-(J1-Shield-Pad5)") (pinfunction "Shield") (pintype "passive") (tstamp 886b2826-5dfe-4a57-8f0d-6bd9d60c4ff0))
-    (model "${KICAD6_3DMODEL_DIR}/Connector_USB.3dshapes/USB_A_CNCTech_1001-011-01101_Horizontal.wrl"
-      (offset (xyz 0 0 0))
+    (model "C:/Users/bigfo/Downloads/PARTserver22024062413205658122047d0b6156e/USB-AM-S-S-W-SM1.stp"
+      (offset (xyz 1.5 0 -1.5))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz -90 0 -90))
     )
   )
 
