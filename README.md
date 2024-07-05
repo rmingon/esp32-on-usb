@@ -2,7 +2,8 @@
 
 Thank you to [PCBWay](https://www.pcbway.com/) for sponsorship the PCB production of this prototype.
 
-## FIRST VIDEO -> [VIDEO](https://www.youtube.com/shorts/jlbQPXkQsWg)
+## FIRST VIDEO
+[![VIDEO](https://img.youtube.com/vi/jlbQPXkQsWg/0.jpg)](https://www.youtube.com/shorts/jlbQPXkQsWg)
 
 | GPIO  | LED |
 | ------------- | ------------- |
